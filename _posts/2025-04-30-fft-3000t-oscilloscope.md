@@ -2,7 +2,7 @@
 title: "FFT with 3000T Keysight Oscilloscope"
 date: 2025-04-30 13:00:00 +0300
 categories: [Electronics, Oscilloscope]
-tags: [FFT, Keysight, Sampling Rate, Frequency Domain]
+tags: [Oscilloscope FFT]
 ---
 
 ## FFT with 3000T Keysight Oscilloscope
