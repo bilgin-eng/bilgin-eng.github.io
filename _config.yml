@@ -1,0 +1,23 @@
+title: SEE-TOUCH-MEASURE
+tagline: Elektronik sistemlerde algıla, hisset, ölç — not et!
+description:
+url: "https://bilgin-eng.github.io"
+baseurl: ""
+
+timezone: Europe/Istanbul
+
+author:
+  name: Halil İbrahim Bilgin
+  email: bilgin_halilibrahim@hotmail.com
+
+github:
+  username: bilgin-eng
+
+social:
+  name: Halil İbrahim Bilgin
+  email: bilgin_halilibrahim@hotmail.com
+  links:
+    - https://github.com/bilgin-eng
+
+theme: chirpy
+lang: en
