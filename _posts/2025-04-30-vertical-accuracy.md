@@ -2,7 +2,7 @@
 title: "Vertical Accuracy"
 date: 2025-04-30 12:00:00 +0300
 categories: [Electronics, Measurement]
-tags: [ADC, Vertical Accuracy, Oscilloscope, Resolution, ENOB]
+tags: [Vertical Accuracy, Oscilloscope]
 ---
 
 Vertical accuracy dediğimiz zaman aklımıza temel bir formül gelmeli. 
@@ -35,7 +35,7 @@ Total bit sayısından gürültü ile ilgilenen bit sayılarını çıkartırsak
 
 **Noise floor ile sinyal seviyesinin ilişkisini bir grafikle gösterecek olsan, nasıl çizerdin?**
 
-_(Cevap kullanıcıya bırakılmış)_
+
 
 ---
 
@@ -47,4 +47,4 @@ Bir sinyali yazılımsal olarak büyütmek demek, SNR (Signal to Noise Ratio) de
 
 **Donanımsal gain kullanılırken dikkat edilmesi gereken bir risk var mı?**
 
-_(Cevap kullanıcıya bırakılmış)_
+
