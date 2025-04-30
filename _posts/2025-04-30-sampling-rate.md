@@ -2,7 +2,7 @@
 title: "Sampling Rate"
 date: 2025-04-30 15:00:00 +0300
 categories: [Electronics, Oscilloscope]
-tags: [Sampling Rate, Nyquist, ADC, Interleave Distortion, Signal Processing]
+tags: [Sampling Rate, Nyquist, ADC, Interleave Distortion]
 ---
 
 ## Sampling Rate
