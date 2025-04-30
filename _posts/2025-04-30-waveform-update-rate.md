@@ -2,7 +2,7 @@
 title: "Oscilloscope Waveform Update Rate"
 date: 2025-04-30 14:00:00 +0300
 categories: [Electronics, Oscilloscope]
-tags: [WUR, Waveform Update Rate, Keysight, Trigger, Signal Capture]
+tags: [Waveform Update Rate, Keysight Signal Capture]
 ---
 
 ## Oscilloscope Waveform Update Rate
